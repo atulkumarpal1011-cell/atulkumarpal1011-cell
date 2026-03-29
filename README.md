@@ -1,4 +1,4 @@
-# Hi,I'm Atul Kumar Pal
+# Hi,I'm Atul Kumar Pal 👋
 
 
 * **Branch:** B.Tech Computer Science & Engineering (CSE)
