@@ -1,16 +1,14 @@
-## Hi there 👋
+# 🚀 My Digital Literacy Project
 
-<!--
-**atulkumarpal1011-cell/atulkumarpal1011-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my first major project as a Computer Science student! This repository contains my research, case studies, and practical tasks related to **Digital Literacy and Cyber Security**.
 
-Here are some ideas to get you started:
+## 👤 Student Profile
+* **Name:** Atul Kumar Pal
+* **Branch:** B.Tech Computer Science & Engineering (CSE)
+* **Year:** Ist Year (Batch 2025-29)
+* **Institution:** VIT Bhopal University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 My Goal
+My primary goal for this year is to build a rock-solid foundation in **computational thinking** and **cyber-hygiene**. I aim to bridge the gap between being a "user" of technology and becoming a "creator" who understands the ethical, social, and security implications of the digital world.
