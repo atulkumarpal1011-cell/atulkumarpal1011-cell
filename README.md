@@ -1,9 +1,6 @@
-# 🚀 My Digital Literacy Project
+# Hi,I'm Atul Kumar Pal
 
-Welcome to my first major project as a Computer Science student! This repository contains my research, case studies, and practical tasks related to **Digital Literacy and Cyber Security**.
 
-## 👤 Student Profile
-* **Name:** Atul Kumar Pal
 * **Branch:** B.Tech Computer Science & Engineering (CSE)
 * **Year:** Ist Year (Batch 2025-29)
 * **Institution:** VIT Bhopal University
